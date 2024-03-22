@@ -1,0 +1,10 @@
+C:\Users\Mstro\source\repos\Sprilast\Sprilast\bin\Debug\Sprilast.exe.config
+C:\Users\Mstro\source\repos\Sprilast\Sprilast\bin\Debug\Sprilast.exe
+C:\Users\Mstro\source\repos\Sprilast\Sprilast\bin\Debug\Sprilast.pdb
+C:\Users\Mstro\source\repos\Sprilast\Sprilast\obj\Debug\Sprilast.csprojAssemblyReference.cache
+C:\Users\Mstro\source\repos\Sprilast\Sprilast\obj\Debug\Sprilast.Form1.resources
+C:\Users\Mstro\source\repos\Sprilast\Sprilast\obj\Debug\Sprilast.Properties.Resources.resources
+C:\Users\Mstro\source\repos\Sprilast\Sprilast\obj\Debug\Sprilast.csproj.GenerateResource.cache
+C:\Users\Mstro\source\repos\Sprilast\Sprilast\obj\Debug\Sprilast.csproj.CoreCompileInputs.cache
+C:\Users\Mstro\source\repos\Sprilast\Sprilast\obj\Debug\Sprilast.exe
+C:\Users\Mstro\source\repos\Sprilast\Sprilast\obj\Debug\Sprilast.pdb
